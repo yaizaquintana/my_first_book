@@ -1,0 +1,5 @@
+jupyter-book
+numpy
+xarray
+pandas
+urllib.parse
